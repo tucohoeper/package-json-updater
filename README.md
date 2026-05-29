@@ -42,7 +42,7 @@ LuaSnip's VSCode-style loader requires a `package.json` at the root of your snip
 
 ```bash
 # Clone or download the script
-curl -O https://raw.githubusercontent.com/your-username/sync_snippets/main/sync_snippets.sh
+curl -O https://raw.githubusercontent.com/tucohoeper/sync_snippets/main/sync_snippets.sh
 
 # Make it executable
 chmod +x sync_snippets.sh
